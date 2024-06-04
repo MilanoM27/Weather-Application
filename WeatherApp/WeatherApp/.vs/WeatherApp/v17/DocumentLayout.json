@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|c:\\users\\frenc\\source\\repos\\weatherapp\\weatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|c:\\users\\frenc\\source\\repos\\weatherapp\\weatherapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|c:\\users\\frenc\\source\\repos\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|c:\\users\\frenc\\source\\repos\\weatherapp\\weatherapp\\pages\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D876238F-838C-4CC5-9D62-57D74C7B7FC1}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\pages\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "WeatherApp\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:12:40.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\Pages\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Pages\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\Pages\\WeatherController.cs",
+              "RelativeToolTip": "WeatherApp\\Pages\\WeatherController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:11:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\WeatherData.cs",
+              "RelativeToolTip": "WeatherApp\\WeatherData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:59:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\frenc\\source\\repos\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeToolTip": "WeatherApp\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:56:56.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
